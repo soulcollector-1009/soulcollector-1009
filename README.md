@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=…500&color=#7700FF.&center=true&width=690&lines=observe+Im+The+Grim+reaper
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9046F7&width=435&lines=Observe;Im+the+grim+reaper+;Your+soul+is+mine!+)](https://git.io/typing-svg) 
+
 <!--
 **soulcollector-1009/soulcollector-1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
